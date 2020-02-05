@@ -1,0 +1,1 @@
+export function getAllProviders(res:Function):void
